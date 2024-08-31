@@ -4,20 +4,37 @@
 </div>
 
 # 🎯Objetivo
-  Esta trilha de conhecimento proporciona uma formação sólida em desenvolvimento web, ela é formada por 5 cursos que cobrem desde os fundamentos de HTML e CSS até a criação de sites completos com JavaScript. A trilha inclui cursos sobre HTML, CSS, JavaScript, integração e criação de sites utilizando essas tecnologias. Meu objetivo ao seguir essa trilha é aprimorar minhas habilidades em Front-End, capacitando-me a desenvolver interfaces web funcionais, responsivas e visualmente atraentes.
+Este bootcampp oferece uma formação abrangente em Inteligência Artificial, utilizando as ferramentas e serviços do Microsoft Azure. Ela é composta por diversos módulos que abordam desde os fundamentos de IA, aprendizado de máquina, visão computacional, processamento de linguagem natural, inteligência de documentos até IA generativa. Meu objetivo ao concluir este bootcamp é aprimorar minhas habilidades em IA, capacitando-me a desenvolver soluções inteligentes, aproveitar as capacidades de IA do Azure e aplicar tecnologias de IA para resolver problemas complexos do mundo real.
 
 # 📚Conteúdo Abordado
-  * **HTML Básico:** Este curso introduz os fundamentos essenciais do HTML, abordando as principais tags utilizadas na construção de páginas web. Como estruturar documentos HTML com semântica adequada, utilizando cabeçalhos, parágrafos, listas, links e imagens. Além disso, são apresentados conceitos de acessibilidade e boas práticas de codificação para garantir que o conteúdo seja acessível e bem-organizado.
+  * **Princípios de IA e Desenvolvimento de Software:** Este módulo oferece uma visão geral dos fundamentos da Inteligência Artificial (IA) e sua aplicação no desenvolvimento de software. Ele explora conceitos-chave de IA, como aprendizado supervisionado e não supervisionado, e discute as melhores práticas para versionamento de código usando Git e GitHub. Além disso, o módulo inclui desafios práticos que incentivam a criação de um portfólio vencedor e a participação em projetos open source, fortalecendo habilidades de lógica e pensamento computacional.
+    - **Conceitos Fundamentais de IA:** Esta seção introduz os princípios básicos da Inteligência Artificial, abordando os conceitos que definem o campo, como aprendizado supervisionado, redes neurais, e processamento de dados. Através de exemplos práticos e teóricos, aqui introduzidos às principais aplicações da IA em diversos setores, compreendendo como essas tecnologias estão transformando a maneira como as empresas operam e inovam.
+    - **Versionamento de Código com Git e GitHub:** Esta seção explora as melhores práticas de versionamento de código, utilizando as ferramentas Git e GitHub. O foco aqui é como gerenciar e colaborar em projetos de software de forma eficiente, criando repositórios, branches e pull requests. A seção também cobre estratégias de resolução de conflitos e automação de processos de desenvolvimento, fundamentais para projetos de qualquer escala.
+    - **Desafios de Projetos: Crie Um Portfólio Vencedor:**  Neste desafio, somos incentivados a aplicar o conhecimento adquirido em desafios práticos que simulam projetos reais. O objetivo é criar um portfólio que destaque minhas habilidades e conquistas, utilizando boas práticas de desenvolvimento e documentação. Esta seção é fundamental para quem deseja se destacar no mercado de trabalho, mostrando uma capacidade comprovada de entregar soluções eficazes.
+    - **Contribuindo em um Projeto Open Source no GitHub:** Este desafio ensina como participar de projetos open source, contribuindo com código, documentação ou testes. Como navegar por repositórios públicos, identificar problemas ou áreas para melhoria, e como submeter contribuições. A seção também aborda a etiqueta da comunidade open source, abordando como colaborar de forma produtiva e respeitosa.
+    - **Desafios de Código: Aperfeiçoe Sua Lógica e Pensamento Computacional:** Esta seção oferece uma série de desafios de código projetados para aprimorar a lógica e o pensamento computacional. Os exercícios são voltados para a resolução de problemas utilizando diversas linguagens de programação e técnicas algorítmicas, fortalecendo a habilidade de pensar criticamente e encontrar soluções criativas para problemas complexos.
+    - **Aula Inaugural - Microsoft Azure AI Fundamentals:**  Esta aula inaugural apresenta os objetivos e a estrutura do bootcamp Microsoft Azure AI Fundamentals. São introduzidos o ecossistema Azure e os principais serviços de IA disponíveis na plataforma. É uma oportunidade para se familiarizar com o ambiente de aprendizado e as ferramentas que serão utilizadas ao longo do bootcamp, além de obter uma visão geral sobre o papel da IA no contexto da computação em nuvem.
 
-  * **HTML Avançado:** Este curso aprofunda o conhecimento em HTML, com foco em formulários e na preparação de dados para o Back-End. O curso explora diferentes tipos de campos de entrada, como texto, e-mail, senhas, botões e selects, além de abordar a validação de dados no lado do cliente. Também são discutidas técnicas de manipulação de dados através de atributos como `name`, `value` e `action`, preparando os formulários para integração com servidores.
+  * **Introdução ao Aprendizado de Máquina:**
+    - **Fundamentos do Aprendizado de Máquina:**
+    - **Trabalhando com Machine Learning na Prática no Azure ML:**
 
-  * **Inovando com CSS:** Neste curso, o foco é a estilização avançada de páginas web utilizando CSS. O conteúdo aborda a aplicação de estilos de maneira eficiente, manipulando cores, fontes, margens, paddings e posicionamentos. Além disso, são introduzidos conceitos de design responsivo, como media queries, e técnicas modernas de layout, incluindo Flexbox e Grid, para criar interfaces adaptáveis e visualmente harmoniosas.
+  * **Trabalhando com Visão Computacional:**
+    - **Conceitos de Visão Computacional:**
+    - **Reconhecimento Facial e transformação de imagens em Dados no Azure ML:**
 
-  * **HTML e CSS na Prática:** Este curso integra os conhecimentos de HTML e CSS para a construção de um site completo. Aqui a idéia é aplicar técnicas de estilização para criar um design coeso, com foco em formulários, navegação e estrutura de layout. O curso enfatiza a prática, permitindo que o desenvolvimento de um projeto real desde o início, aplicando tanto a estrutura HTML quanto as regras de estilo CSS para criar uma interface funcional e esteticamente agradável.
+  * **Processamento de Linguagem Natural:**
+    - **Conceitos de Processamento de Linguagem Natural:**
+    - **Análise de Sentimentos com Language Studio no Azure AI:**
 
-  * **Introdução ao JavaScript:** Este curso é uma imersão nos fundamentos do JavaScript, abordando os principais conceitos necessários para transformar páginas estáticas em interfaces dinâmicas. São exploradas variáveis, tipos de dados, operadores, estruturas de condição e repetição, funções e eventos. Além disso, o curso introduz o uso do JavaScript para processamento de dados no Front-End, com uma visão inicial sobre como o Node.JS pode ser utilizado para gerenciar interações mais complexas com o Back-End.
+  * **Inteligência de Documentos e Mineração de Conhecimento:** 
+    - **Inteligência de Documentos de IA do Azure:**
+    - **Azure Cognitive Search: Utilizando AI Search para indexação e consulta de Dados:**
 
-  * **Crie um de Site Simples com HTML, CSS e JavaScript:** Este curso combina todos os conceitos aprendidos para desenvolver um site completo e interativo. O curso é um guia do processo de construção de uma página com suporte a temas claro e escuro (light e dark mode), utilizando JavaScript para manipular o DOM e CSS para estilizar a interface. O projeto final serve como uma síntese dos conhecimentos adquiridos, permitindo aplicar e reforçar habilidades em HTML, CSS e JavaScript de maneira integrada e prática.
+  * **Trabalhando com IA Generativa:** 
+    - **Fundamentos da IA Generativa:**
+    - **Fundamentos do Serviço Azure OpenAI:**
+    - **Explorando os Recursos de IA Generativa com Copilot e OpenAI:**
 
 # 🏅Certificados
 <img src="assets/certificado.jpg" alt="Certificado do Curso">
