@@ -7,34 +7,34 @@
 Este bootcampp oferece uma formação abrangente em Inteligência Artificial, utilizando as ferramentas e serviços do Microsoft Azure. Ela é composta por diversos módulos que abordam desde os fundamentos de IA, aprendizado de máquina, visão computacional, processamento de linguagem natural, inteligência de documentos até IA generativa. Meu objetivo ao concluir este bootcamp é aprimorar minhas habilidades em IA, capacitando-me a desenvolver soluções inteligentes, aproveitar as capacidades de IA do Azure e aplicar tecnologias de IA para resolver problemas complexos do mundo real.
 
 # 📚Conteúdo Abordado
-  * **Princípios de IA e Desenvolvimento de Software:** Este módulo oferece uma visão geral dos fundamentos da Inteligência Artificial (IA) e sua aplicação no desenvolvimento de software. Ele explora conceitos-chave de IA, como aprendizado supervisionado e não supervisionado, e discute as melhores práticas para versionamento de código usando Git e GitHub. Além disso, o módulo inclui desafios práticos que incentivam a criação de um portfólio vencedor e a participação em projetos open source, fortalecendo habilidades de lógica e pensamento computacional.
-    - **Conceitos Fundamentais de IA:** Esta seção introduz os princípios básicos da Inteligência Artificial, abordando os conceitos que definem o campo, como aprendizado supervisionado, redes neurais, e processamento de dados. Através de exemplos práticos e teóricos, aqui introduzidos às principais aplicações da IA em diversos setores, compreendendo como essas tecnologias estão transformando a maneira como as empresas operam e inovam.
-    - **Versionamento de Código com Git e GitHub:** Esta seção explora as melhores práticas de versionamento de código, utilizando as ferramentas Git e GitHub. O foco aqui é como gerenciar e colaborar em projetos de software de forma eficiente, criando repositórios, branches e pull requests. A seção também cobre estratégias de resolução de conflitos e automação de processos de desenvolvimento, fundamentais para projetos de qualquer escala.
-    - **Desafios de Projetos: Crie Um Portfólio Vencedor:**  Neste desafio, somos incentivados a aplicar o conhecimento adquirido em desafios práticos que simulam projetos reais. O objetivo é criar um portfólio que destaque minhas habilidades e conquistas, utilizando boas práticas de desenvolvimento e documentação. Esta seção é fundamental para quem deseja se destacar no mercado de trabalho, mostrando uma capacidade comprovada de entregar soluções eficazes.
-    - **Contribuindo em um Projeto Open Source no GitHub:** Este desafio ensina como participar de projetos open source, contribuindo com código, documentação ou testes. Como navegar por repositórios públicos, identificar problemas ou áreas para melhoria, e como submeter contribuições. A seção também aborda a etiqueta da comunidade open source, abordando como colaborar de forma produtiva e respeitosa.
-    - **Desafios de Código: Aperfeiçoe Sua Lógica e Pensamento Computacional:** Esta seção oferece uma série de desafios de código projetados para aprimorar a lógica e o pensamento computacional. Os exercícios são voltados para a resolução de problemas utilizando diversas linguagens de programação e técnicas algorítmicas, fortalecendo a habilidade de pensar criticamente e encontrar soluções criativas para problemas complexos.
-    - **Aula Inaugural - Microsoft Azure AI Fundamentals:**  Esta aula inaugural apresenta os objetivos e a estrutura do bootcamp Microsoft Azure AI Fundamentals. São introduzidos o ecossistema Azure e os principais serviços de IA disponíveis na plataforma. É uma oportunidade para se familiarizar com o ambiente de aprendizado e as ferramentas que serão utilizadas ao longo do bootcamp, além de obter uma visão geral sobre o papel da IA no contexto da computação em nuvem.
+  * **Princípios de IA e Desenvolvimento de Software:** Aborda fundamentos da Inteligência Artificial (IA) e seu uso no desenvolvimento de software, explorando aprendizado supervisionado e não supervisionado, e boas práticas de versionamento de código com Git e GitHub. Inclui desafios para criar um portfólio vencedor e contribuir em projetos open source.
+    - **Conceitos Fundamentais de IA:** Introduz princípios básicos de IA, como aprendizado supervisionado, redes neurais e processamento de dados, com exemplos práticos e teóricos das aplicações da IA em diversos setores.
+    - **Versionamento de Código com Git e GitHub:** Explora práticas de versionamento usando Git e GitHub, abordando gestão de projetos, criação de repositórios, branches, pull requests, e resolução de conflitos.
+    - **Desafios de Projetos: Crie Um Portfólio Vencedor:** Incentiva a aplicação prática do conhecimento para criar um portfólio que destaque habilidades e conquistas, utilizando boas práticas de desenvolvimento e documentação.
+    - **Contribuindo em um Projeto Open Source no GitHub:** Ensina a participar de projetos open source, contribuindo com código, documentação ou testes, e aborda a etiqueta da comunidade open source.
+    - **Desafios de Código: Aperfeiçoe Sua Lógica e Pensamento Computacional:** Oferece desafios de código para aprimorar a lógica e o pensamento computacional, resolvendo problemas com diversas linguagens e técnicas algorítmicas.
+    - **Aula Inaugural - Microsoft Azure AI Fundamentals:** Apresenta os objetivos e a estrutura do bootcamp, introduzindo o ecossistema Azure e os principais serviços de IA disponíveis na plataforma.
 
-  * **Introdução ao Aprendizado de Máquina:**
-    - **Fundamentos do Aprendizado de Máquina:**
-    - **Trabalhando com Machine Learning na Prática no Azure ML:**
+  * **Introdução ao Aprendizado de Máquina:** Explora fundamentos do aprendizado de máquina e o uso do Azure Machine Learning para criar, treinar e implantar modelos preditivos em cenários reais.
+    - **Fundamentos do Aprendizado de Máquina:** Introduz conceitos essenciais de aprendizado de máquina, como algoritmos supervisionados e não supervisionados, regressão linear e redes neurais.
+    - **Trabalhando com Machine Learning na Prática no Azure ML:** Aplica conceitos de aprendizado de máquina na prática com Azure Machine Learning, criando, treinando e implantando modelos na nuvem e utilizando pipelines de ML.
 
-  * **Trabalhando com Visão Computacional:**
-    - **Conceitos de Visão Computacional:**
-    - **Reconhecimento Facial e transformação de imagens em Dados no Azure ML:**
+  * **Trabalhando com Visão Computacional:** Examina conceitos de visão computacional e como transformar imagens em dados analisáveis por modelos de IA, com foco na aplicação dessas técnicas no Azure Machine Learning.
+    - **Conceitos de Visão Computacional:** Aborda fundamentos da visão computacional, incluindo técnicas de processamento de imagens e uso de modelos de aprendizado profundo para tarefas como reconhecimento de objetos e classificação de imagens.
+    - **Reconhecimento Facial e transformação de imagens em Dados no Azure ML:** Ensina a aplicar técnicas de visão computacional para reconhecimento facial e transformação de imagens em dados utilizáveis, utilizando o Azure Machine Learning.
 
-  * **Processamento de Linguagem Natural:**
-    - **Conceitos de Processamento de Linguagem Natural:**
-    - **Análise de Sentimentos com Language Studio no Azure AI:**
+  * **Processamento de Linguagem Natural:** Introduz conceitos de processamento de linguagem natural (PLN), incluindo análise de textos e extração de informações, com o uso do Language Studio no Azure AI.
+    - **Conceitos de Processamento de Linguagem Natural:** Explora os princípios do PLN, técnicas de análise e modelagem de texto, e uso de modelos de aprendizado profundo para tarefas como classificação de texto e tradução automática.
+    - **Análise de Sentimentos com Language Studio no Azure AI:** Aplica técnicas de PLN para análise de sentimentos, usando o Language Studio do Azure AI para classificar sentimentos e integrar essas análises em aplicações empresariais.
 
-  * **Inteligência de Documentos e Mineração de Conhecimento:** 
-    - **Inteligência de Documentos de IA do Azure:**
-    - **Azure Cognitive Search: Utilizando AI Search para indexação e consulta de Dados:**
+  * **Inteligência de Documentos e Mineração de Conhecimento:** Oferece uma introdução à inteligência de documentos e mineração de conhecimento, utilizando ferramentas do Azure para automatizar a extração e organização de informações.
+    - **Inteligência de Documentos de IA do Azure:** Explora como o Azure AI automatiza a análise e interpretação de documentos digitais, configurando pipelines para extração de dados e integração com sistemas empresariais.
+    - **Azure Cognitive Search: Utilizando AI Search para indexação e consulta de Dados:** Aborda o uso do Azure Cognitive Search para criar mecanismos de busca sofisticados, indexar e consultar dados, e integrar a pesquisa em aplicações existentes.
 
-  * **Trabalhando com IA Generativa:** 
-    - **Fundamentos da IA Generativa:**
-    - **Fundamentos do Serviço Azure OpenAI:**
-    - **Explorando os Recursos de IA Generativa com Copilot e OpenAI:**
+  * **Trabalhando com IA Generativa:** Introduz fundamentos da IA generativa e o uso do serviço Azure OpenAI para criar novos conteúdos e soluções inovadoras, com ênfase em ferramentas como o Copilot.
+    - **Fundamentos da IA Generativa:** Explora como modelos de IA criam novos conteúdos, discutindo redes neurais generativas adversárias (GANs) e transformadores, e suas aplicações práticas.
+    - **Fundamentos do Serviço Azure OpenAI:** Cobre as funcionalidades do Azure OpenAI, incluindo configuração e uso de modelos pré-treinados para geração de texto, tradução e análise de linguagem.
+    - **Explorando os Recursos de IA Generativa com Copilot e OpenAI:** Examina o uso de GitHub Copilot e serviços da OpenAI para acelerar o desenvolvimento de software, automatizar tarefas e melhorar a produtividade.
 
 # 🏅Certificados
 <img src="assets/certificado.jpg" alt="Certificado do Curso">
