@@ -157,14 +157,13 @@ Este bootcampp oferece uma formação abrangente em Inteligência Artificial, ut
 
 # 🔗Recursos Adicionais
 ### 🔧Ferramentas
-  - <a href="https://www.sublimetext.com/download">Azure</a>
-  - <a href="https://code.visualstudio.com/download">Visual Studio Code</a>
+  - <a href="https://portal.azure.com">Azure</a>
 
 ### 📖Guias de Referência
-  - <a href="https://nodejs.org/docs/latest/api/">Node.Js</a>
+  - <a href="https://learn.microsoft.com/pt-br/azure/?product=popular">Azure</a>
 
-### 📎Curso
-  - <a href="https://www.ev.org.br/">Trilha: Crie Um Site Simples</a>
+### 📎Bootcamp
+  - <a href="https://web.dio.me/track/microsoft-azure-ai-fundamentals">Microsoft Azure IA Fundamentals</a>
 
 # 📬Contato
 <div align="center"> 
