@@ -58,6 +58,86 @@
   </details>
 </details>
 
+<details>
+  <summary>Introdução ao Aprendizado de Máquina</summary>
+  <img src="assets/certificado_introducao_ao_aprendizado_de_maquina.jpg" alt="Certificado Introdução ao Aprendizado de Máquina">
+
+  <details>
+    <summary>Fundamentos do Aprendizado de Máquina</summary>
+    <img src="assets/certificado_fundamentos_do_aprendizado_de_maquina.jpg" alt="Certificado Fundamentos do Aprendizado de Máquina">
+  </details>
+
+  <details>
+    <summary>Trabalhando com Machine Learning na Prática no Azure ML</summary>
+    <img src="assets/certificado_trabalhando_com_machine_learning_na_pratica_no_azure_ml.jpg" alt="Certificado Trabalhando com Machine Learning na Prática no Azure ML">
+  </details>
+</details>
+
+<details>
+  <summary>Trabalhando com Visão Computacional</summary>
+  <img src="assets/certificado_trabalhando_com_visao_computacional.jpg" alt="Certificado Trabalhando com Visão Computacional">
+
+  <details>
+    <summary>Conceitos de Visão Computacional</summary>
+    <img src="assets/certificado_conceitos_de_visao_computacional.jpg" alt="Certificado Conceitos de Visão Computacional">
+  </details>
+
+  <details>
+    <summary>Reconhecimento Facial e transformação de imagens em Dados no Azure ML</summary>
+    <img src="assets/certificado_reconhecimento_facial_e_transformacao_de_imagens_em_dados_no_azure_ml.jpg" alt="Certificado Reconhecimento Facial e transformação de imagens em Dados no Azure ML">
+  </details>
+</details>
+
+<details>
+  <summary>Processamento de Linguagem Natural</summary>
+  <img src="assets/certificado_processamento_de_linguagem_natural.jpg" alt="Certificado Processamento de Linguagem Natural">
+
+  <details>
+    <summary>Conceitos de Processamento de Linguagem Natural</summary>
+    <img src="assets/certificado_conceitos_de_processamento_de_linguagem_natural.jpg" alt="Certificado Conceitos de Processamento de Linguagem Natural">
+  </details>
+
+  <details>
+    <summary>Análise de Sentimentos com Language Studio no Azure AI</summary>
+    <img src="assets/certificado_analise_de_sentimento_com_language_studio_no_azure_ia.jpg" alt="Certificado Análise de Sentimentos com Language Studio no Azure AI">
+  </details>
+</details>
+
+<details>
+  <summary>Inteligência de Documentos e Mineração de Conhecimento</summary>
+  <img src="assets/certificado_inteligencia_de_documentos_e_mineracao_de_conhecimento.jpg" alt="Certificado Inteligência de Documentos e Mineração de Conhecimento">
+
+  <details>
+    <summary>Inteligência de Documentos de IA do Azure</summary>
+    <img src="assets/certificado_inteligencia_de_documentos_de_ia_do_azure.jpg" alt="Certificado Inteligência de Documentos de IA do Azure">
+  </details>
+
+  <details>
+    <summary>Azure Cognitive Search: Utilizando AI Search para indexação e consulta de Dados</summary>
+    <img src="assets/certificado_azure_cognitive_search_utilizando_ai_search_para_indexacao_e_consulta_de_dados.jpg" alt="Certificado Azure Cognitive Search: Utilizando AI Search para indexação e consulta de Dados">
+  </details>
+</details>
+
+<details>
+  <summary>Trabalhando com IA Generativa</summary>
+  <img src="assets/certificado_trabalhando_com_ia_generativa.jpg" alt="Certificado Trabalhando com IA Generativa">
+
+  <details>
+    <summary>Fundamentos da IA Generativa</summary>
+    <img src="assets/certificado_fundamentos_da_ia_generativa.jpg" alt="Certificado Fundamentos da IA Generativa">
+  </details>
+
+  <details>
+    <summary>Fundamentos do Serviço Azure OpenAI</summary>
+    <img src="assets/certificado_fundamentos_do_servico_azure_openai.jpg" alt="Certificado Fundamentos do Serviço Azure OpenAI">
+  </details>
+
+  <details>
+    <summary>Explorando os Recursos de IA Generativa com Copilot e OpenAI</summary>
+    <img src="assets/certificado_explorando_os_recursos_de_ia_generativa_com_copilot_e_openai.jpg" alt="Certificado Explorando os Recursos de IA Generativa com Copilot e OpenAI">
+  </details>
+</details>
+
 # 🔗Recursos Adicionais
 ### 🔧Ferramentas
   - <a href="https://www.sublimetext.com/download">Azure</a>
