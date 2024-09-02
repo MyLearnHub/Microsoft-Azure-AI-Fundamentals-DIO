@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="100px" src="assets/empresas_logo.png" alt="Logo do Bradesco" />
+  <img height="100px" src="assets/empresas_logo.png" alt="Logo da DIO e da Microsoft" />
   <h3 align="center">Microsoft Azure IA Fundamentals - DIO e Microsoft</h3>
 </div>
 
