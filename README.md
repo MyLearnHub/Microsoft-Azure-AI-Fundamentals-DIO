@@ -1,10 +1,15 @@
 <div align="center">
-  <img height="100px" src="assets/empresas_logo.png" alt="Logo da DIO e da Microsoft" />
+  <img height="100px" src="https://iconsverse.vercel.app/icons?i=dio,microsoft" alt="Logo da DIO e da Microsoft" />
   <h3 align="center">Microsoft Azure IA Fundamentals - DIO e Microsoft</h3>
 </div>
 
-# 🎯Objetivo
+# 🔍Visão Geral
 Este bootcamp oferece uma formação abrangente em Inteligência Artificial, utilizando as ferramentas e serviços do Microsoft Azure. Ele é composto por diversos módulos que abordam desde os fundamentos de IA, aprendizado de máquina, visão computacional, processamento de linguagem natural, inteligência de documentos até IA generativa. Meu objetivo ao concluir este bootcamp é aprimorar minhas habilidades em IA, capacitando-me a desenvolver soluções inteligentes, aproveitar as capacidades de IA do Azure e aplicar tecnologias de IA para resolver problemas complexos do mundo real.
+
+<div align="center">
+  <h3> 💻Tecnologias Aprendidas</h3>
+  <img src="https://iconsverse.vercel.app/icons?i=azure" alt="Tecnologias Aprendidas">
+</div>
 
 # 📚Conteúdo Abordado
   * **Princípios de IA e Desenvolvimento de Software:** Aborda fundamentos da Inteligência Artificial (IA) e seu uso no desenvolvimento de software, explorando aprendizado supervisionado e não supervisionado, e boas práticas de versionamento de código com Git e GitHub. Inclui desafios para criar um portfólio vencedor e contribuir em projetos open source.
